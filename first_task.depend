@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697186317 source:c:\c first task\first_task\main.c
+	<stdio.h>
+	<string.h>
+
